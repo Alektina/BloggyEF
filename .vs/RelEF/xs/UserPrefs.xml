@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0A08F8FA-924F-4920-A19D-A4ABE03A1267}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RelEF PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RelEF/MyDbContext.cs">
+    <Files>
+      <File FileName="RelEF/Program.cs" Line="164" Column="1" />
+      <File FileName="RelEF/MyDbContext.cs" Line="13" Column="113" />
+      <File FileName="RelEF/BlogPost.cs" />
+      <File FileName="RelEF/Category.cs" />
+      <File FileName="RelEF/Tag.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RelEF" expanded="True">
+            <Node name="RelEF" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="MyDbContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
